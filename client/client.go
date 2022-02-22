@@ -9636,13 +9636,13 @@ type ModifyClusterNodePoolRequestKubernetesConfig struct {
 	// CPU管理策略。
 	CpuPolicy *string `json:"cpu_policy,omitempty" xml:"cpu_policy,omitempty"`
 	// 节点标签。
-	Labels []*Tag `json:"labels,omitempty" xml:"labels,omitempty" type:"Repeated"`
+	Labels []*Tag `json:"labels" xml:"labels,omitempty" type:"Repeated"`
 	// 容器运行时。
 	Runtime *string `json:"runtime,omitempty" xml:"runtime,omitempty"`
 	// 容器运行时版本。
 	RuntimeVersion *string `json:"runtime_version,omitempty" xml:"runtime_version,omitempty"`
 	// 污点配置。
-	Taints []*Taint `json:"taints,omitempty" xml:"taints,omitempty" type:"Repeated"`
+	Taints []*Taint `json:"taints" xml:"taints,omitempty" type:"Repeated"`
 	// 实例自定义数据。
 	UserData *string `json:"user_data,omitempty" xml:"user_data,omitempty"`
 }
