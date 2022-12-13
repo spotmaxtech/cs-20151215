@@ -1,3 +1,55 @@
+2022-11-24 Version: v3.0.23
+- Update DescribeUserQuota.
+
+2022-10-17 Version: v3.0.22
+- Update CreateCluster.
+
+2022-09-26 Version: v3.0.21
+- Update CreateCluster.
+
+2022-09-23 Version: v3.0.20
+- Update CreateCluster.
+
+2022-09-21 Version: v3.0.19
+- Update endpoint.
+
+2022-09-06 Version: v3.0.18
+- Update endpoint.
+
+2022-09-02 Version: v3.0.17
+- Update endpoint.
+
+2022-08-30 Version: v3.0.16
+- Update.
+
+2022-08-11 Version: v3.0.15
+- Update.
+
+2022-08-02 Version: v3.0.14
+- Update ModifyClusterNodePool.
+
+2022-05-24 Version: v3.0.13
+- Update DescribeClusterResources.
+
+2022-04-11 Version: v3.0.12
+- Update CreateAutoscalingConfig.
+
+2022-04-08 Version: v3.0.11
+- Update DeleteClusterNodepool.
+
+2022-04-08 Version: v3.0.10
+- Update DeleteClusterNodepool.
+- Update UpgradeClusterAddons.
+
+2022-03-18 Version: v3.0.9
+- Update DescribeClustersV1.
+
+2022-03-15 Version: v3.0.8
+- Update ModifyPolicyInstance.
+
+2022-03-09 Version: v3.0.7
+- Update UpdateK8sClusterUserConfig.
+
 2022-02-21 Version: v3.0.6
 - Update DeployPolicyInstance.
 
